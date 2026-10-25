@@ -61,7 +61,3 @@ git push
 ```
 
 GitHub Pages опубликует изменения автоматически в течение минуты-двух.
-
-## Контакты поддержки
-
-https://github.com/takomak2012-cyber/SchoolJokes/issues
