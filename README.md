@@ -4,7 +4,7 @@
 
 - Сайт: https://takomak2012-cyber.github.io/SchoolJokes/
 - Приложение в RuStore: https://www.rustore.ru/catalog/app/com.windak.schooljokes
-- Версия приложения: 1.1.6
+- Версия приложения: 1.1.7
 - Политика конфиденциальности: https://takomak2012-cyber.github.io/SchoolJokes/privacy.html
 
 ## Структура
